@@ -326,7 +326,7 @@ using namespace deCONZ::literals;
 #define VENDOR_YALE                 0x101D
 #define VENDOR_MAXSTREAM            0x101E // Used by Digi
 #define VENDOR_VANTAGE              0x1021
-#define VENDOR_LEGRAND              0x1021 // wrong name?
+#define VENDOR_LEGRAND              0x1021 // Used by Ledvance, Osram
 #define VENDOR_LGE                  0x102E
 #define VENDOR_JENNIC               0x1037 // Used by Xiaomi, Trust, Eurotronic
 #define VENDOR_ALERTME              0x1039
